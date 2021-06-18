@@ -1,0 +1,7 @@
+Enter the browser(chrome or edge or firefox) to automate the miniproject:
+CHROME
+Title is: outdoor toys | eBay
+Yes,The page title starts with outdoor toys
+Total Outdoor toys links:392
+Portable Product links:https://www.ebay.com/itm/392823815330?hash=item5b761fbca2:g:RlkAAOSwvpZemDGy
+Product title :Girls Black Play Tent Teepee Kids Playhouse Sleeping Dome Portable Outdoor Toys
